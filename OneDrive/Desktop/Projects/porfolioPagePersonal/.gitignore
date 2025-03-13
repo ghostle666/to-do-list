@@ -2,7 +2,6 @@
 
 
 # Ignore system files
-.DS_Store
 Thumbs.db
 
 # Ignore VS Code settings
