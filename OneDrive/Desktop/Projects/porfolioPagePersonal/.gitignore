@@ -19,3 +19,7 @@ build/
 
 # Ignore environment variables (if any)
 .env
+.vscode/
+*.log
+*.dat
+Desktop.ini
